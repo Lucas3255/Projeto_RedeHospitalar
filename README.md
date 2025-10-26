@@ -15,7 +15,7 @@ configuração dos dispositivos de rede.</p>
 
 <h2>👨‍💻 Integrantes do Projeto</h2>
 <p> - Lucas Henrique Dias de Medeiros.<br>
- - Marlon Siqueira.</p>
+ - Marlon Siqueira da Silva.</p>
 
 <h2>📚 Conclusão</h2>
 <p>O projeto demonstra a importância do planejamento de redes de computadores em ambientes hospitalares, 
