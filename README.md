@@ -15,7 +15,7 @@ ao longo da disciplina de Redes de Computadores da faculdade.</p>
 
 <h2>🖥️ Equipamentos Utilizados</h2>
 <p> - Roteadores principais (Gateway da rede);<br>
-   - Switches Gerenciáveis;<br>
+   - Switches Gerenciáveis via SSh;<br>
    - Servidores locais (DNS e DHCP);<br>
    - Dispositivos Gerais (PCs e Impressoras);</p>
 
